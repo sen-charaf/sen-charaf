@@ -42,7 +42,7 @@ I'm particularly interested in **full-stack development, backend engineering, so
 ### Databases & Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,oracle,mongodb,mysql,supabase,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma" />
 </p>
 
 ### Tools & Development
