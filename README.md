@@ -24,31 +24,31 @@ I'm particularly interested in **full-stack development, backend engineering, so
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp,php,cs,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,dotnet,laravel" />
 </p>
 
 ### Databases & Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,oracle,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,oracle,mongodb,mysql,supabase,prisma" />
 </p>
 
 ### Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,selenium" />
 </p>
 
 ---
@@ -91,18 +91,6 @@ An e-commerce application focused on product management and online shopping work
 
 ---
 
-## 📌 What I Like Building
-
-```text
-Web Applications       ████████████████████
-Backend Systems         ███████████████████
-Mobile Applications     ████████████████
-Databases               █████████████████
-Software Architecture   ████████████████
-AI / Intelligent Apps   █████████████
-```
-
----
 
 ## 📈 GitHub Activity
 
